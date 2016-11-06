@@ -27,39 +27,53 @@ To create our pivot table, select "Insert" and click "PivotTable." Stay with the
 
 With our pivot table in place, let's start looking at the data:
 
-<iframe width="680" height="383" src="http://www.youtube.com/embed/Okb49d37Uu4?rel=0" frameborder="0"></iframe>
+<a href="http://www.youtube.com/embed/Okb49d37Uu4?rel=0">Youtube Video</a>
+
+
 
 What Excel did was add up all the spending done in all of the countries and organized it by program. So, the U.S. spent about $15.5 million on Child Survival and Health programs around the world in 2009.
 
 Now let's organize this data so we can see where the money is going:
 
-<iframe width="680" height="383" src="http://www.youtube.com/embed/Z_Td7XhkzqQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/embed/Z_Td7XhkzqQ?rel=0">Youtube Video</a>
+
+
 
 Of course, it would be a lot easier to read this data if it were formatted properly. No problem:
 
-<iframe width="680" height="383" src="http://www.youtube.com/embed/OwkXSBOKcTc?rel=0" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/embed/OwkXSBOKcTc?rel=0">Youtube Video</a>
+
+
 
 <h3>Working the count</h3>
 
 Another question one might ask this data is, how many foreign aid programs is the U.S. running in each country? This is easily answered using the "count" function.
 
-<iframe width="680" height="383" src="http://www.youtube.com/embed/vj63Lazbay0?rel=0" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/embed/vj63Lazbay0?rel=0">Youtube Video</a>
+
+
 
 <h3>Playing the percentages</h3>
 
 Another useful function is calculating percentages. For example, maybe we'd like to break down 2009 program spending by percentage.
 
-<iframe width="680" height="383" src="http://www.youtube.com/embed/axOCwmbVEvg?rel=0" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/embed/axOCwmbVEvg?rel=0">Youtube Video</a>
+
+
 
 We can also look at what percentage of all aid since 1946 was handed out in 2009. To do this, we'll need to add a new column in our data tab totaling all the years for each country and program. We'll call this column "Total."
 
-<iframe width="680" height="383" src="http://www.youtube.com/embed/CN7MF3fgLNo?rel=0" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/embed/CN7MF3fgLNo?rel=0">Youtube Video</a>
+
+
 
 Now, let's create a new pivot table with "country_name" in the row labels and "Total" in values. Be sure to set total to "sum."
 
 Then we'll need to create a new column in our pivot table:
 
-<iframe width="680" height="383" src="http://www.youtube.com/embed/97NJXyeKokw?rel=0" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/embed/97NJXyeKokw?rel=0">Youtube Video</a>
+
+
 
 <h3>Comparisons</h3>
 
@@ -67,6 +81,8 @@ Finally, you can add multiple values if you want to make side-by-side comparison
 
 Simply remove "Total" from the value box and instead add two years, say 2000 and 2009. Make sure to set both to "sum of."
 
-<iframe width="681" height="383" src="http://www.youtube.com/embed/_RZfRCnMMMM?rel=0" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/embed/_RZfRCnMMMM?rel=0">Youtube Video</a>
+
+
 
 As you can see, pivot tables are incredibly powerful, if not always intuitive. But, with a little patience, you can start using them to better analyze and understand your data.
