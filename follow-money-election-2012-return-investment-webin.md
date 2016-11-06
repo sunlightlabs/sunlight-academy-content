@@ -1,0 +1,6 @@
+<h1>Follow the Money in Election 2012: Return on Investment (webinar)</h1>
+
+Recorded webinar from Nov. 29, 2012 that looked at the percentage return of investment of outside organizations.
+<a href="http://www.youtube.com/embed/8kHaGmbMHWc">Youtube Video</a>
+
+The 2012 election was the most expensive election in history, with outside organizations spending nearly $1.4 billion buying television ads and influencing the political process. To understand the impact of these groups, the Sunlight Foundation calculated the percent of their spending in an election that helped winning candidates and called that percentage return on investment (ROI). In this webinar, we dived into the data from our tool <a href="http://reporting.sunlightfoundation.com/outside-spending/super-pacs/"> Follow the Unlimited Money </a> and took a granular look on the story behind the percents. We also debuted our congressional ROI data set, to look at how groups did in hotly contested congressional races, not including the large amounts these outside groups spent on presidential races.
