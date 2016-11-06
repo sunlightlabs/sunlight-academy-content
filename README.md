@@ -1,5 +1,12 @@
 # Sunlight Academy Content
-The content from Sunlight Academy as markdown files.
+
+Welcome to Sunlight Academy, a collection of interactive tutorials for journalists, activists, researchers and students to learn about tools by the Sunlight Foundation and others to unlock government data.
+
+Be sure to create a profile to access our curriculum, track your progress, watch videos, complete training activities and get updates on new tutorials and tools.
+
+Whether you are an investigative journalist trying to get insight on a complex data set, an activist uncovering the hidden influence behind your issue, or a congressional staffer in need of mastering legislative data, Sunlight Academy guides you through how to make our tools work for you. Let’s get started!
+
+## Modules
 
 [Pivot Tables](pivot-tables.md)
 
