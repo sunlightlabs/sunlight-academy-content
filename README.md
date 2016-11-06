@@ -1,3 +1,5 @@
+![](images/logo.png)
+
 # Sunlight Academy Content
 
 Welcome to Sunlight Academy, a collection of interactive tutorials for journalists, activists, researchers and students to learn about tools by the Sunlight Foundation and others to unlock government data.
